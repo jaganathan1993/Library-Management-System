@@ -1,0 +1,3 @@
+bookid,bookname,author,price,description,publisher,category,bookcount,status
+BC1009,Fundamentals of Wavelets,"Goswami, Jaideva",228,,Wiley,signal_processing,30,Available
+BC1010,Data Smart,"Foreman, John",235,,Wiley,data_science,39,Available
